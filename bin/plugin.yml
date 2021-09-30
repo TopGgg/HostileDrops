@@ -1,0 +1,7 @@
+main: net.adarw.hostiledrops.Main
+name: HostileDrops
+version: 1.0
+author: adarw
+website: www.adarw.net
+api-version: 1.17
+depend: [GuiAPI]
