@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/popped_chorus_fruit"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1234560}, "model": "item/big_netherite_nugget"},
+		{"predicate": {"custom_model_data":1234561}, "model": "item/big_diamond_nugget"},
+		{"predicate": {"custom_model_data":1234562}, "model": "item/big_iron_nugget"},
+		{"predicate": {"custom_model_data":1234563}, "model": "item/portable_ore_crafter"}
+	]
+}
